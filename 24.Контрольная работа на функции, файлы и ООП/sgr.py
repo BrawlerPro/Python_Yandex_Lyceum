@@ -1,0 +1,1 @@
+print('nightingale' >= 'nightingale')

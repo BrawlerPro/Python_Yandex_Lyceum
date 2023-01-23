@@ -1,0 +1,1 @@
+fractal = [2, fractal, fractal, 0]
